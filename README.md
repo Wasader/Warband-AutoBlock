@@ -13,7 +13,7 @@ Follow the steps to install and run the cheat.
 ```
 
 ```bash
-    cd Warband-AutoBlock
+  cd Warband-AutoBlock
 ```
 
 ```bash
