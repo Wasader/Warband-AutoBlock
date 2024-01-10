@@ -17,6 +17,10 @@ Follow the steps to install and run the cheat.
 ```
 
 ```bash
+  pip install psutil
+```
+
+```bash
   python3 *-AutoBlock.py
 ```
 Memo:Remember to set the "Blocking Direction Control" section in the game settings to automatic, otherwise the cheat may not work.
